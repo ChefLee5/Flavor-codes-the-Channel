@@ -1,4 +1,4 @@
-# 🎵 Flavor Codes — The Channel
+# 🎵  The Flavor Codes — The Channel
 
 **Premium 24/7 YouTube Live-Streaming Channel**  
 *"Building an empire in peace. Health, wealth, consistency, and sovereign ownership."*
@@ -7,7 +7,7 @@
 
 ## What This Is
 
-Flavor Codes is a 24/7 ambient live-stream channel built around four core aesthetic themes across eight global regions. Every scene is photorealistic, 8K, cinematic — designed for deep focus, luxury lounge energy, and the "Organic Hustle" ethos.
+The Flavor Codes is a 24/7 ambient live-stream channel built around four core aesthetic themes across eight global regions. Every scene is photorealistic, 8K, cinematic — designed for deep focus, luxury lounge energy, and the "Organic Hustle" ethos.
 
 **Audio Signature:** Jugg music meets luxury lounge. Mid-tempo 70–85 BPM. Curren$y · Larry June · Big Boi DNA.  
 **Visual Standard:** 8K photorealistic · Rembrandt or neon-noir lighting · locked-off angles · subtle looping animation.
