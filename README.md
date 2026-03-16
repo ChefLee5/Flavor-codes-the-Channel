@@ -27,25 +27,27 @@ Flavor Codes is a 24/7 ambient live-stream channel built around four core aesthe
 
 ## Scene Library (17 of 24 Complete)
 
-| ID | Theme | Region | BPM |
-|---|---|---|---|
-| FC-001 | Playa Peace Lounge | Brooklyn, NYC | 72–80 |
-| FC-002 | Vinyl Shop / Thrift Bar | Atlanta, GA | 78–84 |
-| FC-003 | Black Patagonia | Seattle, WA | 72–78 |
-| FC-004 | Refined Gentleman's Lounge | Detroit, MI | 70–76 |
-| FC-005 | Playa Peace Lounge | Bay Area, CA | 74–80 |
-| FC-006 | Vinyl Shop / Thrift Bar | Kyoto, Japan | 68–76 |
-| FC-007 | Playa Peace Lounge | New Orleans, LA | 74–80 |
-| FC-008 | Refined Gentleman's Lounge | GTA 6 / Vice City | 76–82 |
-| FC-009 | Black Patagonia | Tokyo, Japan | 72–78 |
-| FC-010 | Black Patagonia | Brooklyn, NYC | 76–82 |
-| FC-011 | Vinyl Shop / Thrift Bar | Detroit, MI | 72–78 |
-| FC-012 | Refined Gentleman's Lounge | New Orleans, LA | 70–76 |
-| FC-013 | Playa Peace Lounge | GTA 6 / Vice City | 78–84 |
-| FC-014 | Vinyl Shop / Thrift Bar | New Orleans, LA | 76–82 |
-| FC-015 | Refined Gentleman's Lounge | Kyoto, Japan | 68–74 |
-| FC-016 | Vinyl Shop / Thrift Bar | Bay Area, CA | 78–84 |
-| FC-017 | Black Patagonia | Minneapolis/Fargo | 70–76 |
+| ID | Theme | Region | BPM | Signature Detail |
+|---|---|---|---|---|
+| FC-001 | Playa Peace Lounge | Brooklyn, NYC | 72–80 | Fire bowl · rain on glass · dusk skyline · palo santo smoke |
+| FC-002 | Vinyl Shop / Thrift Bar | Atlanta, GA | 78–84 | Gold rims as art · Spanish moss · ATL Braves case · soul/jazz/funk/trap crates |
+| FC-003 | Black Patagonia | Seattle, WA | 72–78 | Mt. Rainier through fog · Chemex steam · A-frame glass · WA topo map |
+| FC-004 | Refined Gentleman's Lounge | Detroit, MI | 70–76 | Motown vinyl art · Temptations/Marvin Gaye framed · snowy Renaissance Center |
+| FC-005 | Playa Peace Lounge | Bay Area, CA | 74–80 | Golden Gate through fog bank · lowrider books · green smoothie |
+| FC-006 | Vinyl Shop / Thrift Bar | Kyoto, Japan | 68–76 | Cherry blossoms · zen garden courtyard · City Pop crates · tetsubin steam |
+| FC-007 | Playa Peace Lounge | New Orleans, LA | 74–80 | Ceiling fan · heat lightning · wrought iron balcony · beignets |
+| FC-008 | Refined Gentleman's Lounge | GTA 6 / Vice City | 76–82 | Retrowave sunset · Ocean Drive · pink/cyan neon · marble floors |
+| FC-009 | Black Patagonia | Tokyo, Japan | 72–78 | Shibuya crossing below · Tokyo Tower · cyan neon · rain wall |
+| FC-010 | Black Patagonia | Brooklyn, NYC | 76–82 | Fire escape silhouette · rain on industrial glass · pour-over steam |
+| FC-011 | Vinyl Shop / Thrift Bar | Detroit, MI | 72–78 | J Dilla easter egg · muscle car in snow · Motown heritage wall · factory skylights |
+| FC-012 | Refined Gentleman's Lounge | New Orleans, LA | 70–76 | Gilt crown molding · upright piano · cigar smoke · heat lightning through wrought iron |
+| FC-013 | Playa Peace Lounge | GTA 6 / Vice City | 78–84 | Infinity pool edge · palm sway · Art Deco neon skyline · cabana curtains |
+| FC-014 | Vinyl Shop / Thrift Bar | New Orleans, LA | 76–82 | Sovereign Groove Records · Louis Armstrong plinth · brass tuba/trumpet · Bourbon St shutters |
+| FC-015 | Refined Gentleman's Lounge | Kyoto, Japan | 68–74 | Yamazaki whisky · Hiroshige prints · cherry blossoms drifting in · incense smoke · shoji lamp |
+| FC-016 | Vinyl Shop / Thrift Bar | Bay Area, CA | 78–84 | Golden Gate through warehouse roll-up door · E-40/Mac Dre posters · avocado toast · Impala mag |
+| FC-017 | Black Patagonia | Minneapolis/Fargo | 70–76 | Prairie blizzard · cast iron stove ember · bare birch trees · Pendleton blanket · Prince DNA audio |
+
+*7 scenes remaining to complete the full blueprint: FC-018 through FC-024.*
 
 ---
 
@@ -86,6 +88,19 @@ Each manifest includes:
 
 ---
 
+## Project Status
+
+| Milestone | Status |
+|---|---|
+| Scene design (17 of 24) | ✅ In progress |
+| Audio briefs (510 tracks briefed) | ✅ Complete per scene |
+| Asset manifests | ✅ Generated per scene |
+| OBS deployment config | ✅ Documented |
+| FC-018 through FC-024 | 🔲 Remaining |
+| Live channel launch | 🔲 Pending scene completion |
+
+---
+
 ## Brand
 
 **Channel:** Flavor Codes  
@@ -94,4 +109,4 @@ Each manifest includes:
 
 ---
 
-*7 scenes remaining to complete the full blueprint: FC-018 through FC-024*
+*Last updated: March 2026 · 17 of 24 scenes complete · 510 audio tracks briefed · 136 seconds of looped content*
